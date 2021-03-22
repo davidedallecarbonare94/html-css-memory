@@ -48,10 +48,9 @@ h1 {
 }
 .card_name{
     position: absolute;
-
+    z-index: 1;
 }
 .card:hover{
     background-image: url(/img/noun_air_balloon_3134741.png);
-    z-index: 1;
     object-fit: contain;
 }
