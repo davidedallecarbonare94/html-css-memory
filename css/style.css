@@ -3,6 +3,19 @@
     margin: 0;
     padding: 0;
 }
-.body_container{
+body{
     background-color: rgba(173, 216, 230, 1);
+}
+.container{
+    width: 75%;
+    margin: auto;
+}
+
+/* header section */
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    margin-top: 1.5rem;
+    font-family: 'Nerko One', cursive;
 }
